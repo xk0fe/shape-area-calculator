@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculatorService", "AreaCalculatorService\AreaCalculatorService.csproj", "{48B57557-4242-4DB4-BE33-25A875A6672F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculatorService.Test", "AreaCalculatorService.Test\AreaCalculatorService.Test.csproj", "{5D0CCC32-566A-4EF6-BBA1-8C5C27F6A08B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculatorService.UserShapes", "AreaCalculatorService.UserShapes\AreaCalculatorService.UserShapes.csproj", "{E1F0C3A9-9437-4FF2-A043-682D39C187FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculatorService.Benchmark", "AreaCalculatorService.Benchmark\AreaCalculatorService.Benchmark.csproj", "{9808092B-E780-4117-A2B4-A8EAC7E951A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B57557-4242-4DB4-BE33-25A875A6672F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B57557-4242-4DB4-BE33-25A875A6672F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B57557-4242-4DB4-BE33-25A875A6672F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B57557-4242-4DB4-BE33-25A875A6672F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0CCC32-566A-4EF6-BBA1-8C5C27F6A08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0CCC32-566A-4EF6-BBA1-8C5C27F6A08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0CCC32-566A-4EF6-BBA1-8C5C27F6A08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0CCC32-566A-4EF6-BBA1-8C5C27F6A08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F0C3A9-9437-4FF2-A043-682D39C187FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F0C3A9-9437-4FF2-A043-682D39C187FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F0C3A9-9437-4FF2-A043-682D39C187FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F0C3A9-9437-4FF2-A043-682D39C187FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9808092B-E780-4117-A2B4-A8EAC7E951A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9808092B-E780-4117-A2B4-A8EAC7E951A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9808092B-E780-4117-A2B4-A8EAC7E951A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9808092B-E780-4117-A2B4-A8EAC7E951A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
